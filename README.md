@@ -36,11 +36,9 @@ I am a seasoned Full-stack Developer with a comprehensive skill set that spans b
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeifeddineMechergui&theme=dark&" alt="SeifeddineMechergui" /></p>
 <img alt="SeifeddineMechergui" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SeifeddineMechergui"/>
 
 
-<codersrank-summary username="seifeddinemechergui"></codersrank-summary>
 
 
 <b>Top Repositories</b>
