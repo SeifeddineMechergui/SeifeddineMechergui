@@ -1,5 +1,5 @@
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*GNFNf_V7rj_C2YUCeZNzsw.jpeg" alt="seifeddinemechergui" />
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seifeddine
+Hi ![(https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)] My name is Seifeddine
 ==================================================================================================================================
 
 skilled fullstack developer
