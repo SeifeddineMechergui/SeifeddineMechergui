@@ -40,7 +40,7 @@ I am a seasoned Full-stack Developer with a comprehensive skill set that spans b
 <img alt="SeifeddineMechergui" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SeifeddineMechergui"/>
 
 
-<img alt="Seif"   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=SeifeddineMechergui&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"/>
+<codersrank-summary username="seifeddinemechergui"></codersrank-summary>
 
 
 <b>Top Repositories</b>
