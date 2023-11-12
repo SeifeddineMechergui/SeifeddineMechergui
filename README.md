@@ -34,7 +34,7 @@ I am a seasoned Full-stack Developer with a comprehensive skill set that spans b
 
 <a href="http://www.github.com/SeifeddineMechergui"><img src="https://github-readme-stats.vercel.app/api?username=SeifeddineMechergui&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="SeifeddineMechergui's GitHub stats" /></a>
 
-<a href="http://www.github.com/SeifeddineMechergui"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SeifeddineMechergui&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SeifeddineMechergui&theme=dark&" alt="SeifeddineMechergui" /></p>
 <img alt="SeifeddineMechergui" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=SeifeddineMechergui"/>
